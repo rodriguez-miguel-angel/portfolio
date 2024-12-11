@@ -2,7 +2,7 @@
 
 ## Cybersecurity Portfolio Projects
 
-###Throughout the Google certificate program, I developed items to include in my portfolio. These portfolio items include:
+### Throughout the Google certificate program, I developed items to include in my portfolio. These portfolio items include:
 
 - A professional statement.
 - A security audit (i.e., a controls and compliance checklist).
