@@ -24,8 +24,8 @@ Link: https://www.coursera.org/learner/miguel-angel-rodriguez-south-san-francisc
 
 ##### Key Contributions:
 - Backend Development: Built a microservices architecture using Django and deployed it on Kubernetes, demonstrating proficiency in scalable backend solutions.
-- Frontend Development: Developed a dynamic single-page application (SPA) using React and Redux, showcasing skills in modern frontend frameworks.
-- Data Engineering: Created a data pipeline using Apache Kafka, Spark, and Cassandra to process and analyze real-time data streams, highlighting expertise in big data technologies.
+- Frontend Development: Developed a dynamic single-page application (SPA) using React, showcasing skills in modern frontend frameworks.
+- Data Engineering: Created a data pipeline using Apache Kafka and Spark to process and analyze real-time data streams, highlighting expertise in big data technologies.
 
 
 
